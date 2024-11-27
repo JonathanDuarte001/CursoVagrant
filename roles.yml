@@ -1,0 +1,11 @@
+roles/
+	ansible-role-mysql
+		defaults
+			main.yml
+		handlers
+			main.yml
+		README.md
+		tasks
+			configure.yml
+			install.yml
+			main.yml
